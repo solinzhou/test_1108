@@ -1,7 +1,5 @@
 test
 
 
-test2
+learn python hard
 
-
-test3
